@@ -1,0 +1,13 @@
+{
+    "name": "my-application",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Siddhi Jain <siddhijainkhilosia@gmail.com>",
+    "dependencies": {
+      "minimist": "^1.2.6"
+    }
+  }
